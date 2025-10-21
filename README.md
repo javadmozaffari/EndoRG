@@ -21,7 +21,6 @@ The framework achieves superior **semantic fidelity (CIDEr)** while maintaining 
 
 ## 🖼️ Dataset and Qualitative Examples
 
-https://drive.google.com/file/d/1G-QBCalHEkfPpgY42zYnkg1iVRfn41Lz/view?usp=sharing
 
 <p align="center">
   <img src="docs/figures/fig3_dataset_overview.png" alt="Overview of the EndoRG dataset showing anatomical diversity across GI regions" width="85%">
@@ -92,24 +91,14 @@ The dataset is organized into **training** and **test** subsets to support super
 
     
 Each folder contains endoscopic images specific to that anatomical region.  
-The corresponding clinical descriptions are stored in the Excel files under the `reports/` directory, where each row links the **image filename** to its **structured report text**.
 
 ---
 
 ### 🔗 Dataset Download
-The dataset is available for research use under the **CC BY 4.0 license**.
+The dataset is available for research use**.
 
-- 📥 **[Download from Zenodo](https://zenodo.org/your-dataset-link)**  
-  *(or replace with your actual Google Drive / Hugging Face / institutional link)*
+- 📥 **[Download from Google Drive](https://drive.google.com/uc?id=1G-QBCalHEkfPpgY42zYnkg1iVRfn41Lz)**  
 
-If you use the dataset in your research, please cite our paper using the BibTeX entry below.
-
----
-
-### ⚠️ Data Usage Terms
-- The dataset is intended **solely for non-commercial research and educational purposes**.  
-- Redistribution without proper attribution is prohibited.  
-- Please cite:  
-  *“EndoRG: Automated Endoscopic Report Generation with Multimodal AI through Dataset, Framework and Benchmarking.”*
+If you use the dataset in your research, please cite our paper.
 
 ---
