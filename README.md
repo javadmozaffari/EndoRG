@@ -30,7 +30,7 @@ The framework achieves superior **semantic fidelity (CIDEr)** while maintaining 
 ---
 
 <p align="center">
-  <img src="Figures/Fig4.png" alt="Qualitative comparison of generated endoscopic reports" width="85%">
+  <img src="Figures/Fig4.JPG" alt="Qualitative comparison of generated endoscopic reports" width="85%">
 </p>
 <p align="center"><b>Figure 4.</b> Qualitative comparison of generated reports. EndoRG produces clinically faithful and anatomically consistent outputs compared to prior models.</p>
 
