@@ -23,14 +23,14 @@ The framework achieves superior **semantic fidelity (CIDEr)** while maintaining 
 
 
 <p align="center">
-  <img src="docs/figures/fig3_dataset_overview.png" alt="Overview of the EndoRG dataset showing anatomical diversity across GI regions" width="85%">
+  <img src="Figures/fig3.png" alt="Overview of the EndoRG dataset showing anatomical diversity across GI regions" width="85%">
 </p>
 <p align="center"><b>Figure 3.</b> Anatomical diversity in the EndoRG dataset. Representative endoscopic images and excerpts from corresponding clinical reports across the GI tract.</p>
 
 ---
 
 <p align="center">
-  <img src="docs/figures/fig4_qualitative_comparison.png" alt="Qualitative comparison of generated endoscopic reports" width="85%">
+  <img src="Figures/fig4.png" alt="Qualitative comparison of generated endoscopic reports" width="85%">
 </p>
 <p align="center"><b>Figure 4.</b> Qualitative comparison of generated reports. EndoRG produces clinically faithful and anatomically consistent outputs compared to prior models.</p>
 
