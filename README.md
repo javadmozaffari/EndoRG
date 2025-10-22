@@ -102,3 +102,7 @@ The dataset is available for research use**.
 If you use the dataset in your research, please cite our paper.
 
 ---
+
+---
+
+This repository builds upon the open-source implementation of **[R2GenGPT](https://github.com/wang-zhanyu/R2GenGPT)** by Wang et al.  
